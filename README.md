@@ -1,4 +1,4 @@
-This app visualizes wellbore deviation in interactive 3D, allowing users to load survey data, analyze trajectory, monitor DLS, and assign casing. It provides real-time metrics, annotations, and export options, enabling efficient quality control, planning, and presentation of directional drilling data without specialized software or licenses.
+This app visualizes wellbore deviation in interactive 3D to support well intervention planning and well entry assessment. It enables analysis of trajectory, DLS, and casing configuration, helping identify access constraints, risks, and optimal entry strategies using slickline or e-line for routine operations or logging jobs without specialized software or licenses.
 
 Video in action: https://youtu.be/19S-0tEL1AE
 
